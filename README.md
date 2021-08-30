@@ -1,2 +1,2 @@
 # Pytorch_tuto
-Pytorch tutorial for batalab
+Pytorch tutorial for datalab community
